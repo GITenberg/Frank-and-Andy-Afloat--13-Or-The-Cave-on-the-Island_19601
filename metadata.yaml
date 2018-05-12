@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '3584'
     url: http://www.gutenberg.org/2009/agents/3584
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19601#Frank-and-Andy-Afloat--13-Or-The-Cave-on-the-Island
 gutenberg_issued: '2006-10-21'
 gutenberg_type: Text
 identifiers:
